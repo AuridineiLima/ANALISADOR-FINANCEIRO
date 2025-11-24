@@ -1,4 +1,4 @@
-## ✔ Script criado por AurY Abreu com ajuda de Ia
+## ✔ Script criado por Aury Abreu com ajuda de Ia
 # 📈 Analisador Financeiro com Python
 
 Um aplicativo simples, direto e poderoso para análise de ativos financeiros usando Python.  
